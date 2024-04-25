@@ -1,10 +1,12 @@
 
-## Olá! INFORMÁTICA BY BIEL SILVA VULGO PEREIRINHA
+## INFORMÁTICA BY BIEL SILVA (VULGO PEREIRINHA
 
-      ✅ ATIVIDADES + PROJETOS 
+          • ✅ ATIVIDADES + PROJETOS ✅
 
-      ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/95356009-9125-4070-ba26-481cd3e9b89c)
+      
 
+
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/65fbc5fd-258d-44b6-88f7-9c39a50f93bb)
 
 
 ![excel-microsoft-spreadsheet-computer-application-enhdz9phqfeeurhx](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/6798338a-86e7-465b-a8c1-6c80a8da5967)
