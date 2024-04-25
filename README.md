@@ -1,4 +1,10 @@
 
+_______     INFORMÁTICA   _______
+ATIVIDADES + PROJETOS + #APRENDIZAGEM 
+
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/19ec2d00-b4a0-42db-8194-b47b09d52541)
+
+
 ![excel-microsoft-spreadsheet-computer-application-enhdz9phqfeeurhx](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/6798338a-86e7-465b-a8c1-6c80a8da5967)
 ![ExcelFunction](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/23019594-db92-4863-9858-19aae0bcaa03)
 [GabrielPereira_Funções_Custo_Receita_Lucro (1).xlsx](https://github.com/GabrielSilva-GPI/Informatica_I/files/14763598/GabrielPereira_Funcoes_Custo_Receita_Lucro.1.xlsx)
