@@ -13,6 +13,7 @@
 ![ExcelFunction](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/23019594-db92-4863-9858-19aae0bcaa03)
 [GabrielPereira_Funções_Custo_Receita_Lucro (1).xlsx](https://github.com/GabrielSilva-GPI/Informatica_I/files/14763598/GabrielPereira_Funcoes_Custo_Receita_Lucro.1.xlsx)
 
+__________________________________________________________________________________________________________________________
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/a30be81f-3530-4769-8822-f76dd4aa25ca)
 [Receitas_Empresariais.xlsx](https://github.com/GabrielSilva-GPI/Informatica_I/files/14763608/Receitas_Empresariais.xlsx)
