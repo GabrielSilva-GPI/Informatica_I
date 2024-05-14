@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________
 
-## POWER BI (ILUSTRAÇÃO)
+## POWER BI (Dashboard)
 • Imagem para ilustrar Dashboard
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/2daac281-d15c-4e79-bb57-cc97d66094af)
