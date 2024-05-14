@@ -1,5 +1,5 @@
 
-## INFORMÁTICA BY BIEL SILVA (VULGO Silva Silva)
+## INFORMÁTICA BY BIEL SILVA 
 
           • ✅ ATIVIDADES + PROJETOS ✅
 
