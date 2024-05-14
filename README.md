@@ -32,4 +32,4 @@ ________________________________________________________________________________
 • Imagem para ilustrar Dashboard
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/2daac281-d15c-4e79-bb57-cc97d66094af)
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/24a1dd4b-5aa9-4447-8b8b-bc40caab854f)
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/adaa4fe5-14aa-4833-a2f5-f5a138e53ceb)
