@@ -8,7 +8,7 @@
 
 
 
-## Aplicativo Acadêmico: Informações sobre P-13 Kg (Botijão de gás residencial)!
+## POWER APPS (APLICATIVO INFORMACIONAL): Informações sobre P-13 Kg (Botijão de gás residencial)! 📲
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/4d162864-93db-4767-8291-efafb6439f7e)
 
@@ -19,7 +19,7 @@ https://apps.powerapps.com/play/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a
 
 
 
-## EXCEL (FUNÇÕES DE CUSTO)
+## EXCEL (FUNÇÕES DE CUSTO) 📊
 
 
 ![excel-microsoft-spreadsheet-computer-application-enhdz9phqfeeurhx](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/6798338a-86e7-465b-a8c1-6c80a8da5967)
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________
 
-## POWER BI (Dashboard)
+## POWER BI (Dashboard)📋
 • Imagem para ilustrar Dashboard
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/2daac281-d15c-4e79-bb57-cc97d66094af)
