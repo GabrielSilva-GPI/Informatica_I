@@ -12,6 +12,8 @@
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/3a6bdc39-795a-487d-bd2b-f0a3fa08ccac)
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/613c6d58-ba20-4e00-b5ef-5902dd2d15c0)
 
+https://make.powerautomate.com/environments/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/flows/new?newFlowName=Salvar%20anexos%20de%20e-mails%20no%20OneDrive&trigger=%2Fproviders%2FMicrosoft.PowerApps%2Fapis%2Fshared_office365%2FapiOperations%2FOnFlaggedEmailV3&v3=true
+
 • Salvar anexos de e-mails recebidos no Outlook em uma pasta específica do OneDrive. Este exemplo é ótimo para iniciantes e demonstra como criar um fluxo simples.
 
 
