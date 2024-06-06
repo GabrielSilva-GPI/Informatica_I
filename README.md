@@ -3,6 +3,17 @@
 
           • ✅ ATIVIDADES + PROJETOS ✅
 
+## POWER AUTOMATE (FLUXO BÁSICO)
+# Resumo do Fluxo:
+> 1. Gatilho:  Quando um novo e-mail chega na caixa de entrada do Outlook.
+> 2. Condição: Verificar se o e-mail tem anexos.
+> 3. Ação (Se sim): Salvar cada anexo do e-mail em uma pasta específica no OneDrive. 
+
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/3a6bdc39-795a-487d-bd2b-f0a3fa08ccac)
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/613c6d58-ba20-4e00-b5ef-5902dd2d15c0)
+
+• Salvar anexos de e-mails recebidos no Outlook em uma pasta específica do OneDrive. Este exemplo é ótimo para iniciantes e demonstra como criar um fluxo simples.
+
 
 ## POWER APPS (APLICATIVO INFORMACIONAL): Informações sobre P-13 Kg (Botijão de gás residencial)! 📲
 
