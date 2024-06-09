@@ -29,7 +29,7 @@ https://apps.powerapps.com/play/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a
 ## POWERPOINT (APRESENTAÇÃO INICIAL MODIFICADA) 🌍
 > Um pouco sobre mim...
 
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/bc188f93-5693-484a-9f30-007a28d12769)
+![AtletiGif](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/3ee11368-0e56-40e8-b87b-bf89ded00207)
 
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/f86e35d1-8993-4b70-add9-bb8b1db499a1)
 
