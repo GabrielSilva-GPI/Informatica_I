@@ -19,7 +19,7 @@ https://make.powerautomate.com/environments/Default-cf72e2bd-7a2b-4783-bdeb-39d5
 
 ## POWER APPS (APLICATIVO INFORMACIONAL): Informações sobre P-13 Kg (Botijão de gás residencial)! 📲
 
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/4d162864-93db-4767-8291-efafb6439f7e)
+![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/5df97b51-75ce-43b4-b1b4-522679a02b69)
 
       
 ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/85740d50-41fb-44ca-ab3c-5e610a625c1c) ![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/be916b5c-dfed-4a18-9c72-1bcdc139616f)
