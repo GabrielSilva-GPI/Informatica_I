@@ -1,5 +1,5 @@
 
-## INFORMÁTICA -> Gabriel Pereira Da Silva -> GESTÃO DA PRODUÇÃO INDUSTRIAL 👷🏻‍♂️ 
+## INFORMÁTICA -> Gabriel Pereira Da Silva -> PRODUÇÃO INDUSTRIAL 👷🏻‍♂️ 
 
           • ✅ ATIVIDADES + PROJETOS ✅
 
